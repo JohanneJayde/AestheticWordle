@@ -30,6 +30,6 @@
     "sass": "^1.77.6",
     "vite-plugin-vuetify": "^2.0.3",
     "vitest": "^1.4.0",
-    "vuetify": "^3.5.14"
+    "vuetify": "^3.6.10"
   }
 }
